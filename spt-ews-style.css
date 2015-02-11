@@ -1,0 +1,8 @@
+/* stylesheet for SpyThemes Easy Website Screenshots */
+/* if you are changing it please remember to give position:relavite to .spt-ews-thumb-box */
+/* and position:absolute to .spt-ews-thumb-loader-box */
+
+.spt-ews-thumb-box {border:0;padding:0;margin:0 auto;display:block;overflow:hidden;position:relative;min-height:48px;min-width:48px;}
+.spt-ews-thumb {border:0;padding:0;margin:10px auto;width:320px;display:block;}
+.spt-ews-thumb-loader-box {border:0;padding:0;margin:0;width:100%;height:100%;top:0;left:0;position:absolute;}
+.spt-ews-thumb-loader {border:0;padding:0;margin:0 auto;width:48px;height:48px;display:block;}
