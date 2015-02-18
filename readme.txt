@@ -16,6 +16,7 @@ Built-in cache engine preserves bandwidth and speeds up the process. You can set
 
 Plugin uses AJAX so it doesn\'t block your website. AJAX loader image can be turned on and off.
 
+THIS IS BETA preliminary release. DO NOT use it other way than for testing only purpose!
 
 
 
@@ -53,4 +54,4 @@ For more info and examples please visit the official homepage at http://spytheme
 2. http://spythemes.com/blog/wp-content/uploads/2015/02/easy-website-screenshots-wordpress-plugin-s-slogan.jpg
 
 == Changelog ==
-1.0.0 Initial release
+1.0.0 Initial BETA prerelease
